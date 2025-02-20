@@ -10,7 +10,7 @@ Aqui está a versão simplificada do README, focando apenas em como rodar o proj
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/Tchuc01/Atividade-avaliativa-final-Web-Backend-a2348101.git
+   git clone https://github.com/Tchuc01/Atividade-avaliativa-final-Web-Backend.git
    ```
 
 2. **Instale as dependências:**
