@@ -1,5 +1,3 @@
-Aqui está a versão simplificada do README, focando apenas em como rodar o projeto, em **Markdown**:
-
 # 🚀 Como Rodar o Projeto
 
 ## Pré-requisitos
